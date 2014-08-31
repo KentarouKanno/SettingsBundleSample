@@ -10,11 +10,11 @@
 		</data>
 		<key>Base.lproj/Main.storyboardc/UIViewController-vXZ-lx-hvc.nib</key>
 		<data>
-		jdBVUAoj4AO1dKmUrlnoUv3DpBU=
+		iglCksTeUtvDPc3ZmiWRccqcXsc=
 		</data>
 		<key>Base.lproj/Main.storyboardc/vXZ-lx-hvc-view-kh9-bI-dsS.nib</key>
 		<data>
-		niUFSsSkNRVxjASsf5v0eJ5G+1c=
+		pIu0Dul8YD/SEQ+d1f4n0tgnCMk=
 		</data>
 		<key>LaunchImage-700-568h@2x.png</key>
 		<data>
@@ -30,11 +30,11 @@
 		</data>
 		<key>Settings.bundle/Root.plist</key>
 		<data>
-		L1tMxCaBlc8JJ3pYuU4j5ZCoJYU=
+		ec9fqHtckXnsz9X1TBKEmMARxvE=
 		</data>
-		<key>Settings.bundle/en.lproj/Root.strings</key>
+		<key>Settings.bundle/en.lproj/localizable.strings</key>
 		<data>
-		t4KY9Gh4uIiOv7VnHtRrKEuPRY8=
+		zoYhVT1pyXgNJM63T5thN1vKIqc=
 		</data>
 		<key>Settings.bundle/image1.jpg</key>
 		<data>
@@ -44,13 +44,17 @@
 		<data>
 		CxZK0vG2u8PcZFvx0umTJSyEWYw=
 		</data>
-		<key>Settings.bundle/ja.lproj/Root.strings</key>
+		<key>Settings.bundle/ja.lproj/localizable.strings</key>
 		<data>
-		t4KY9Gh4uIiOv7VnHtRrKEuPRY8=
+		jtDUDrOaCJ5rHbN2z/lKYXnWkAM=
 		</data>
 		<key>embedded.mobileprovision</key>
 		<data>
 		E9I1QvO+TSYzwn6V/t1ZbdiJ0ns=
+		</data>
+		<key>ja.lproj/Main.strings</key>
+		<data>
+		zdOS4RsP3jGwnw72iwS+Yh8+FZw=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -61,11 +65,11 @@
 		</data>
 		<key>Base.lproj/Main.storyboardc/UIViewController-vXZ-lx-hvc.nib</key>
 		<data>
-		jdBVUAoj4AO1dKmUrlnoUv3DpBU=
+		iglCksTeUtvDPc3ZmiWRccqcXsc=
 		</data>
 		<key>Base.lproj/Main.storyboardc/vXZ-lx-hvc-view-kh9-bI-dsS.nib</key>
 		<data>
-		niUFSsSkNRVxjASsf5v0eJ5G+1c=
+		pIu0Dul8YD/SEQ+d1f4n0tgnCMk=
 		</data>
 		<key>LaunchImage-700-568h@2x.png</key>
 		<data>
@@ -81,11 +85,11 @@
 		</data>
 		<key>Settings.bundle/Root.plist</key>
 		<data>
-		L1tMxCaBlc8JJ3pYuU4j5ZCoJYU=
+		ec9fqHtckXnsz9X1TBKEmMARxvE=
 		</data>
-		<key>Settings.bundle/en.lproj/Root.strings</key>
+		<key>Settings.bundle/en.lproj/localizable.strings</key>
 		<data>
-		t4KY9Gh4uIiOv7VnHtRrKEuPRY8=
+		zoYhVT1pyXgNJM63T5thN1vKIqc=
 		</data>
 		<key>Settings.bundle/image1.jpg</key>
 		<data>
@@ -95,13 +99,17 @@
 		<data>
 		CxZK0vG2u8PcZFvx0umTJSyEWYw=
 		</data>
-		<key>Settings.bundle/ja.lproj/Root.strings</key>
+		<key>Settings.bundle/ja.lproj/localizable.strings</key>
 		<data>
-		t4KY9Gh4uIiOv7VnHtRrKEuPRY8=
+		jtDUDrOaCJ5rHbN2z/lKYXnWkAM=
 		</data>
 		<key>embedded.mobileprovision</key>
 		<data>
 		E9I1QvO+TSYzwn6V/t1ZbdiJ0ns=
+		</data>
+		<key>ja.lproj/Main.strings</key>
+		<data>
+		zdOS4RsP3jGwnw72iwS+Yh8+FZw=
 		</data>
 	</dict>
 	<key>rules</key>

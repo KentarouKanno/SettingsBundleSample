@@ -1,0 +1,190 @@
+TSettingsBudleTests
+v6
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/KentarOu/Desktop/My_Github/SettingsBundleSample/SettingsBudle/Build/Products/Debug-iphonesimulator/SettingsBudleTests.xctest/Info.plist /Users/KentarOu/Desktop/My_Github/SettingsBundleSample/SettingsBudle/SettingsBudleTests/Info.plist
+cCompileC Build/Intermediates/SettingsBudle.build/Debug-iphonesimulator/SettingsBudleTests.build/Objects-normal/x86_64/SettingsBudleTests.o /Users/KentarOu/Desktop/My_Github/SettingsBundleSample/SettingsBudle/SettingsBudleTests/SettingsBudleTests.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/KentarOu/Desktop/My_Github/SettingsBundleSample/SettingsBudle/Build/Products/Debug-iphonesimulator/SettingsBudleTests.xctest/SettingsBudleTests normal x86_64
+cGenerateDSYMFile /Users/KentarOu/Desktop/My_Github/SettingsBundleSample/SettingsBudle/Build/Products/Debug-iphonesimulator/SettingsBudleTests.xctest.dSYM /Users/KentarOu/Desktop/My_Github/SettingsBundleSample/SettingsBudle/Build/Products/Debug-iphonesimulator/SettingsBudleTests.xctest/SettingsBudleTests
+cTouch /Users/KentarOu/Desktop/My_Github/SettingsBundleSample/SettingsBudle/Build/Products/Debug-iphonesimulator/SettingsBudleTests.xctest
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c0000000053497CDC0000000000000198
+t1397325020
+s408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c00000000531F216C00000000000003B4
+t1394549100
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000531F2173000000000000019E
+t1394549107
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c00000000531F21950000000000000ADC
+t1394549141
+s2780
+
+N/Users/KentarOu/Desktop/My_Github/SettingsBundleSample/SettingsBudle/Build/Intermediates/SettingsBudle.build/Debug-iphonesimulator/SettingsBudleTests.build/Objects-normal/x86_64/SettingsBudleTests.LinkFileList
+c000000005403029B00000000000000C7
+t1409483419
+s199
+
+N/Users/KentarOu/Desktop/My_Github/SettingsBundleSample/SettingsBudle/Build/Intermediates/SettingsBudle.build/Debug-iphonesimulator/SettingsBudleTests.build/Objects-normal/x86_64/SettingsBudleTests.o
+t1409483420
+s12292
+
+N/Users/KentarOu/Desktop/My_Github/SettingsBundleSample/SettingsBudle/Build/Products/Debug-iphonesimulator/SettingsBudleTests.xctest
+t1409483420
+s136
+
+N/Users/KentarOu/Desktop/My_Github/SettingsBundleSample/SettingsBudle/Build/Products/Debug-iphonesimulator/SettingsBudleTests.xctest.dSYM
+t2
+s0
+
+N/Users/KentarOu/Desktop/My_Github/SettingsBundleSample/SettingsBudle/Build/Products/Debug-iphonesimulator/SettingsBudleTests.xctest/Info.plist
+t1409483419
+s556
+
+N/Users/KentarOu/Desktop/My_Github/SettingsBundleSample/SettingsBudle/Build/Products/Debug-iphonesimulator/SettingsBudleTests.xctest/SettingsBudleTests
+t1409483420
+s15364
+
+N/Users/KentarOu/Desktop/My_Github/SettingsBundleSample/SettingsBudle/SettingsBudleTests/Info.plist
+c0000000053FE39D400000000000002EB
+t1409169876
+s747
+
+N/Users/KentarOu/Desktop/My_Github/SettingsBundleSample/SettingsBudle/SettingsBudleTests/SettingsBudleTests.m
+c0000000054012BFD0000000000000381
+t1409362941
+s897
+
+CBuild AST from /Users/KentarOu/Desktop/My_Github/SettingsBundleSample/SettingsBudle/SettingsBudleTests/SettingsBudleTests.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies2d082d1b3ab3b941^d1592e1b3ab3b941^---0#1#1#--18"Check dependencies36"5BEAEAD6-79A5-40CA-8EF7-F5B650A5A219-
+
+CCompileC Build/Intermediates/SettingsBudle.build/Debug-iphonesimulator/SettingsBudleTests.build/Objects-normal/x86_64/SettingsBudleTests.o /Users/KentarOu/Desktop/My_Github/SettingsBundleSample/SettingsBudle/SettingsBudleTests/SettingsBudleTests.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s431176219.180858
+e431176220.712054
+r1
+xCompileC
+xBuild/Intermediates/SettingsBudle.build/Debug-iphonesimulator/SettingsBudleTests.build/Objects-normal/x86_64/SettingsBudleTests.o
+x/Users/KentarOu/Desktop/My_Github/SettingsBundleSample/SettingsBudle/SettingsBudleTests/SettingsBudleTests.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/KentarOu/Desktop/My_Github/SettingsBundleSample/SettingsBudle/SettingsBudleTests/SettingsBudleTests.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection116"Compile /Users/KentarOu/Desktop/My_Github/SettingsBundleSample/SettingsBudle/SettingsBudleTests/SettingsBudleTests.m248"CompileC Build/Intermediates/SettingsBudle.build/Debug-iphonesimulator/SettingsBudleTests.build/Objects-normal/x86_64/SettingsBudleTests.o SettingsBudleTests/SettingsBudleTests.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler7c652e1b3ab3b941^cf4ab61c3ab3b941^---0#0#1#-19%DVTDocumentLocation2@115"file:///Users/KentarOu/Desktop/My_Github/SettingsBundleSample/SettingsBudle/SettingsBudleTests/SettingsBudleTests.m0000000000000000^4407"CompileC Build/Intermediates/SettingsBudle.build/Debug-iphonesimulator/SettingsBudleTests.build/Objects-normal/x86_64/SettingsBudleTests.o SettingsBudleTests/SettingsBudleTests.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/KentarOu/Desktop/My_Github/SettingsBundleSample/SettingsBudle    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/KentarOu/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=8.0 -iquote /Users/KentarOu/Desktop/My_Github/SettingsBundleSample/SettingsBudle/Build/Intermediates/SettingsBudle.build/Debug-iphonesimulator/SettingsBudleTests.build/SettingsBudleTests-generated-files.hmap -I/Users/KentarOu/Desktop/My_Github/SettingsBundleSample/SettingsBudle/Build/Intermediates/SettingsBudle.build/Debug-iphonesimulator/SettingsBudleTests.build/SettingsBudleTests-own-target-headers.hmap -I/Users/KentarOu/Desktop/My_Github/SettingsBundleSample/SettingsBudle/Build/Intermediates/SettingsBudle.build/Debug-iphonesimulator/SettingsBudleTests.build/SettingsBudleTests-all-target-headers.hmap -iquote /Users/KentarOu/Desktop/My_Github/SettingsBundleSample/SettingsBudle/Build/Intermediates/SettingsBudle.build/Debug-iphonesimulator/SettingsBudleTests.build/SettingsBudleTests-project-headers.hmap -I/Users/KentarOu/Desktop/My_Github/SettingsBundleSample/SettingsBudle/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/KentarOu/Desktop/My_Github/SettingsBundleSample/SettingsBudle/Build/Intermediates/SettingsBudle.build/Debug-iphonesimulator/SettingsBudleTests.build/DerivedSources/x86_64 -I/Users/KentarOu/Desktop/My_Github/SettingsBundleSample/SettingsBudle/Build/Intermediates/SettingsBudle.build/Debug-iphonesimulator/SettingsBudleTests.build/DerivedSources -F/Users/KentarOu/Desktop/My_Github/SettingsBundleSample/SettingsBudle/Build/Products/Debug-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/Developer/Library/Frameworks -F/Applications/Xcode.app/Contents/Developer/Library/Frameworks -MMD -MT dependencies -MF /Users/KentarOu/Desktop/My_Github/SettingsBundleSample/SettingsBudle/Build/Intermediates/SettingsBudle.build/Debug-iphonesimulator/SettingsBudleTests.build/Objects-normal/x86_64/SettingsBudleTests.d --serialize-diagnostics /Users/KentarOu/Desktop/My_Github/SettingsBundleSample/SettingsBudle/Build/Intermediates/SettingsBudle.build/Debug-iphonesimulator/SettingsBudleTests.build/Objects-normal/x86_64/SettingsBudleTests.dia -c /Users/KentarOu/Desktop/My_Github/SettingsBundleSample/SettingsBudle/SettingsBudleTests/SettingsBudleTests.m -o /Users/KentarOu/Desktop/My_Github/SettingsBundleSample/SettingsBudle/Build/Intermediates/SettingsBudle.build/Debug-iphonesimulator/SettingsBudleTests.build/Objects-normal/x86_64/SettingsBudleTests.o36"D1C6492D-0789-4C67-AEAD-BA8DC9D866D8-
+bFEF4C992-5199-4E57-89CF-B2C4BEDB0FA5
+
+CGenerateDSYMFile /Users/KentarOu/Desktop/My_Github/SettingsBundleSample/SettingsBudle/Build/Products/Debug-iphonesimulator/SettingsBudleTests.xctest.dSYM /Users/KentarOu/Desktop/My_Github/SettingsBundleSample/SettingsBudle/Build/Products/Debug-iphonesimulator/SettingsBudleTests.xctest/SettingsBudleTests
+s431176220.787310
+e431176220.806435
+r1
+xGenerateDSYMFile
+x/Users/KentarOu/Desktop/My_Github/SettingsBundleSample/SettingsBudle/Build/Products/Debug-iphonesimulator/SettingsBudleTests.xctest.dSYM
+x/Users/KentarOu/Desktop/My_Github/SettingsBundleSample/SettingsBudle/Build/Products/Debug-iphonesimulator/SettingsBudleTests.xctest/SettingsBudleTests
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection145"Generate /Users/KentarOu/Desktop/My_Github/SettingsBundleSample/SettingsBudle/Build/Products/Debug-iphonesimulator/SettingsBudleTests.xctest.dSYM166"GenerateDSYMFile Build/Products/Debug-iphonesimulator/SettingsBudleTests.xctest.dSYM Build/Products/Debug-iphonesimulator/SettingsBudleTests.xctest/SettingsBudleTestsed99c91c3ab3b941^8273ce1c3ab3b941^---0#0#1#-19%DVTDocumentLocation2@143"file:///Users/KentarOu/Desktop/My_Github/SettingsBundleSample/SettingsBudle/Build/Products/Debug-iphonesimulator/SettingsBudleTests.xctest.dSYM003494dbddffdf42^829"GenerateDSYMFile Build/Products/Debug-iphonesimulator/SettingsBudleTests.xctest.dSYM Build/Products/Debug-iphonesimulator/SettingsBudleTests.xctest/SettingsBudleTests    cd /Users/KentarOu/Desktop/My_Github/SettingsBundleSample/SettingsBudle    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/KentarOu/Desktop/My_Github/SettingsBundleSample/SettingsBudle/Build/Products/Debug-iphonesimulator/SettingsBudleTests.xctest/SettingsBudleTests -o /Users/KentarOu/Desktop/My_Github/SettingsBundleSample/SettingsBudle/Build/Products/Debug-iphonesimulator/SettingsBudleTests.xctest.dSYM36"0D27A3DF-E7BA-4712-AB01-9757239ACE2B-
+bFEF4C992-5199-4E57-89CF-B2C4BEDB0FA5
+
+CLd /Users/KentarOu/Desktop/My_Github/SettingsBundleSample/SettingsBudle/Build/Products/Debug-iphonesimulator/SettingsBudleTests.xctest/SettingsBudleTests normal x86_64
+s431176220.712807
+e431176220.786404
+r1
+xLd
+x/Users/KentarOu/Desktop/My_Github/SettingsBundleSample/SettingsBudle/Build/Products/Debug-iphonesimulator/SettingsBudleTests.xctest/SettingsBudleTests
+xnormal
+xx86_64
+d/Users/KentarOu/Desktop/My_Github/SettingsBundleSample/SettingsBudle/Build/Intermediates/SettingsBudle.build/Debug-iphonesimulator/SettingsBudleTests.build/Objects-normal/x86_64/SettingsBudleTests.LinkFileList
+d/Users/KentarOu/Desktop/My_Github/SettingsBundleSample/SettingsBudle/Build/Products/Debug-iphonesimulator/SettingsBudle.app/SettingsBudle
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/bundle1.o
+d/Users/KentarOu/Desktop/My_Github/SettingsBundleSample/SettingsBudle/Build/Intermediates/SettingsBudle.build/Debug-iphonesimulator/SettingsBudleTests.build/Objects-normal/x86_64/SettingsBudleTests.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/Developer/Library/Frameworks/XCTest.framework/XCTest
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libsystem_stats.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection155"Link /Users/KentarOu/Desktop/My_Github/SettingsBundleSample/SettingsBudle/Build/Products/Debug-iphonesimulator/SettingsBudleTests.xctest/SettingsBudleTests98"Ld Build/Products/Debug-iphonesimulator/SettingsBudleTests.xctest/SettingsBudleTests normal x86_64698cb61c3ab3b941^1553c91c3ab3b941^---0#0#1#--2112"Ld Build/Products/Debug-iphonesimulator/SettingsBudleTests.xctest/SettingsBudleTests normal x86_64    cd /Users/KentarOu/Desktop/My_Github/SettingsBundleSample/SettingsBudle    export IPHONEOS_DEPLOYMENT_TARGET=8.0    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -bundle -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/KentarOu/Desktop/My_Github/SettingsBundleSample/SettingsBudle/Build/Products/Debug-iphonesimulator -F/Users/KentarOu/Desktop/My_Github/SettingsBundleSample/SettingsBudle/Build/Products/Debug-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/Developer/Library/Frameworks -F/Applications/Xcode.app/Contents/Developer/Library/Frameworks -filelist /Users/KentarOu/Desktop/My_Github/SettingsBundleSample/SettingsBudle/Build/Intermediates/SettingsBudle.build/Debug-iphonesimulator/SettingsBudleTests.build/Objects-normal/x86_64/SettingsBudleTests.LinkFileList -Xlinker -rpath -Xlinker @executable_path/Frameworks -Xlinker -rpath -Xlinker @loader_path/Frameworks -bundle_loader /Users/KentarOu/Desktop/My_Github/SettingsBundleSample/SettingsBudle/Build/Products/Debug-iphonesimulator/SettingsBudle.app/SettingsBudle -Xlinker -objc_abi_version -Xlinker 2 -framework XCTest -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=8.0 -Xlinker -dependency_info -Xlinker /Users/KentarOu/Desktop/My_Github/SettingsBundleSample/SettingsBudle/Build/Intermediates/SettingsBudle.build/Debug-iphonesimulator/SettingsBudleTests.build/Objects-normal/x86_64/SettingsBudleTests_dependency_info.dat -o /Users/KentarOu/Desktop/My_Github/SettingsBundleSample/SettingsBudle/Build/Products/Debug-iphonesimulator/SettingsBudleTests.xctest/SettingsBudleTests36"371240F7-7F51-40CC-81D8-5E861BC2DCFB-
+bFEF4C992-5199-4E57-89CF-B2C4BEDB0FA5
+
+CProcessInfoPlistFile /Users/KentarOu/Desktop/My_Github/SettingsBundleSample/SettingsBudle/Build/Products/Debug-iphonesimulator/SettingsBudleTests.xctest/Info.plist /Users/KentarOu/Desktop/My_Github/SettingsBundleSample/SettingsBudle/SettingsBudleTests/Info.plist
+s431176219.178502
+e431176219.180131
+r1
+xProcessInfoPlistFile
+x/Users/KentarOu/Desktop/My_Github/SettingsBundleSample/SettingsBudle/Build/Products/Debug-iphonesimulator/SettingsBudleTests.xctest/Info.plist
+x/Users/KentarOu/Desktop/My_Github/SettingsBundleSample/SettingsBudle/SettingsBudleTests/Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Process /Users/KentarOu/Desktop/My_Github/SettingsBundleSample/SettingsBudle/SettingsBudleTests/Info.plist124"ProcessInfoPlistFile Build/Products/Debug-iphonesimulator/SettingsBudleTests.xctest/Info.plist SettingsBudleTests/Info.plist87c42d1b3ab3b941^9e612e1b3ab3b941^---0#0#1#-19%DVTDocumentLocation2@105"file:///Users/KentarOu/Desktop/My_Github/SettingsBundleSample/SettingsBudle/SettingsBudleTests/Info.plist0000000000000000^732"ProcessInfoPlistFile Build/Products/Debug-iphonesimulator/SettingsBudleTests.xctest/Info.plist SettingsBudleTests/Info.plist    cd /Users/KentarOu/Desktop/My_Github/SettingsBundleSample/SettingsBudle    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/KentarOu/Desktop/My_Github/SettingsBundleSample/SettingsBudle/SettingsBudleTests/Info.plist -expandbuildsettings -format binary -platform iphonesimulator -o /Users/KentarOu/Desktop/My_Github/SettingsBundleSample/SettingsBudle/Build/Products/Debug-iphonesimulator/SettingsBudleTests.xctest/Info.plist36"42B15AE2-6186-4F68-B403-537E6065F9E2-
+bFEF4C992-5199-4E57-89CF-B2C4BEDB0FA5
+
+CTouch /Users/KentarOu/Desktop/My_Github/SettingsBundleSample/SettingsBudle/Build/Products/Debug-iphonesimulator/SettingsBudleTests.xctest
+r0
+

@@ -47,9 +47,10 @@
 - (void)viewDidAppear:(BOOL)animated
 {
     [super viewDidAppear:animated];
-    [_baseScrollView setContentSize:CGSizeMake(self.view.frame.size.width, 670)];
+    
+    [_baseScrollView setContentSize:CGSizeMake(self.view.frame.size.width, CGRectGetMaxY(_multiPickerView.frame))];
 }
-
+;
 - (void)touchesBegan:(NSSet *)touches withEvent:(UIEvent *)event
 {
     [self.view endEditing:YES];

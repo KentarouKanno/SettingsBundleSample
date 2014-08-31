@@ -41,6 +41,7 @@
 		361386B719AE715400B9BD8B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		361386B819AE715400B9BD8B /* SettingsBudleTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SettingsBudleTests.m; sourceTree = "<group>"; };
 		361386C219AE71B900B9BD8B /* Settings.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = Settings.bundle; sourceTree = "<group>"; };
+		36BF351919B338A50022C183 /* ja */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ja; path = ja.lproj/Main.strings; sourceTree = "<group>"; };
 		36CCD49A19B30F6000F8C2CB /* TouchScrollView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TouchScrollView.h; sourceTree = "<group>"; };
 		36CCD49B19B30F6000F8C2CB /* TouchScrollView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TouchScrollView.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -271,6 +272,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				361386AA19AE715400B9BD8B /* Base */,
+				36BF351919B338A50022C183 /* ja */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";

@@ -9,7 +9,7 @@
 			<string>Copyright © 2014 KentarOu 
 All Rights Reserved.</string>
 			<key>Title</key>
-			<string>Settings Bundle Practice</string>
+			<string>Settings Bundle</string>
 			<key>Type</key>
 			<string>PSGroupSpecifier</string>
 		</dict>
@@ -39,7 +39,7 @@ All Rights Reserved.</string>
 			<key>Key</key>
 			<string>titleID001</string>
 			<key>Title</key>
-			<string>タイトル</string>
+			<string>LOCALIZATION</string>
 			<key>Type</key>
 			<string>PSTitleValueSpecifier</string>
 		</dict>

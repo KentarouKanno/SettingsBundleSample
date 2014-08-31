@@ -1,0 +1,36 @@
+
+/* Class = "IBUILabel"; text = "Build"; ObjectID = "1Vb-dx-xyP"; */
+"1Vb-dx-xyP.text" = "Build";
+
+/* Class = "IBUILabel"; text = "Version"; ObjectID = "5FL-AR-5wW"; */
+"5FL-AR-5wW.text" = "Version";
+
+/* Class = "IBUILabel"; text = "Switch 001"; ObjectID = "5Yl-7o-0cn"; */
+"5Yl-7o-0cn.text" = "Switch 001";
+
+/* Class = "IBUILabel"; text = "SWITCH GROUP"; ObjectID = "7wN-Ns-4kO"; */
+"7wN-Ns-4kO.text" = "SWITCH GROUP";
+
+/* Class = "IBUILabel"; text = "Text Field Secure"; ObjectID = "BSY-sv-okr"; */
+"BSY-sv-okr.text" = "Text Field Secure";
+
+/* Class = "IBUILabel"; text = "1.0"; ObjectID = "HgM-lx-A6I"; */
+"HgM-lx-A6I.text" = "1.0";
+
+/* Class = "IBUILabel"; text = "TEXT FIELD GROUP"; ObjectID = "Lp4-bH-ItJ"; */
+"Lp4-bH-ItJ.text" = "TEXT FIELD GROUP";
+
+/* Class = "IBUILabel"; text = "Text Field"; ObjectID = "Uha-Kd-XMK"; */
+"Uha-Kd-XMK.text" = "Text Field";
+
+/* Class = "IBUILabel"; text = "Switch 002"; ObjectID = "fS2-XY-hVa"; */
+"fS2-XY-hVa.text" = "Switch 002";
+
+/* Class = "IBUILabel"; text = "SLIDER GROUP"; ObjectID = "fnL-VY-vMj"; */
+"fnL-VY-vMj.text" = "SLIDER GROUP";
+
+/* Class = "IBUILabel"; text = "MULTI VALUE GROUP"; ObjectID = "opI-jn-AMW"; */
+"opI-jn-AMW.text" = "MULTI VALUE GROUP";
+
+/* Class = "IBUILabel"; text = "1.0"; ObjectID = "vHq-cN-cGF"; */
+"vHq-cN-cGF.text" = "1.0";
