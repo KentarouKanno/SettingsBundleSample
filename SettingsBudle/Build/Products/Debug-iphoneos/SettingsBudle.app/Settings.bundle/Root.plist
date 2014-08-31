@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PreferenceSpecifiers</key>
+	<array>
+		<dict>
+			<key>FooterText</key>
+			<string>Copyright © 2014 KentarOu 
+All Rights Reserved.</string>
+			<key>Title</key>
+			<string>Settings Bundle Practice</string>
+			<key>Type</key>
+			<string>PSGroupSpecifier</string>
+		</dict>
+		<dict>
+			<key>DefaultValue</key>
+			<string>2.5</string>
+			<key>Key</key>
+			<string>sbVersion</string>
+			<key>Title</key>
+			<string>Version</string>
+			<key>Type</key>
+			<string>PSTitleValueSpecifier</string>
+		</dict>
+		<dict>
+			<key>DefaultValue</key>
+			<string>5.2</string>
+			<key>Key</key>
+			<string>sbBuild</string>
+			<key>Title</key>
+			<string>Build</string>
+			<key>Type</key>
+			<string>PSTitleValueSpecifier</string>
+		</dict>
+		<dict>
+			<key>DefaultValue</key>
+			<string>Default Value</string>
+			<key>Key</key>
+			<string>titleID001</string>
+			<key>Title</key>
+			<string>タイトル</string>
+			<key>Type</key>
+			<string>PSTitleValueSpecifier</string>
+		</dict>
+		<dict>
+			<key>File</key>
+			<string>License</string>
+			<key>Title</key>
+			<string>License Sample</string>
+			<key>Type</key>
+			<string>PSChildPaneSpecifier</string>
+		</dict>
+		<dict>
+			<key>FooterText</key>
+			<string>------- Slider Footer Text --------</string>
+			<key>Title</key>
+			<string>Slider group</string>
+			<key>Type</key>
+			<string>PSGroupSpecifier</string>
+		</dict>
+		<dict>
+			<key>DefaultValue</key>
+			<integer>50</integer>
+			<key>Key</key>
+			<string>sliderID001</string>
+			<key>MaximumValue</key>
+			<integer>100</integer>
+			<key>MinimumValue</key>
+			<integer>0</integer>
+			<key>Type</key>
+			<string>PSSliderSpecifier</string>
+		</dict>
+		<dict>
+			<key>DefaultValue</key>
+			<integer>80</integer>
+			<key>Key</key>
+			<string>sliderID002</string>
+			<key>MaximumValue</key>
+			<integer>100</integer>
+			<key>MaximumValueImage</key>
+			<string>image2.jpg</string>
+			<key>MinimumValue</key>
+			<integer>0</integer>
+			<key>MinimumValueImage</key>
+			<string>image1.jpg</string>
+			<key>Type</key>
+			<string>PSSliderSpecifier</string>
+		</dict>
+		<dict>
+			<key>FooterText</key>
+			<string>------- TextField Footer Text --------</string>
+			<key>Title</key>
+			<string>Text Field group</string>
+			<key>Type</key>
+			<string>PSGroupSpecifier</string>
+		</dict>
+		<dict>
+			<key>Key</key>
+			<string>textfieldID001</string>
+			<key>Title</key>
+			<string>Text Field</string>
+			<key>Type</key>
+			<string>PSTextFieldSpecifier</string>
+		</dict>
+		<dict>
+			<key>IsSecure</key>
+			<true/>
+			<key>Key</key>
+			<string>textfieldID002</string>
+			<key>KeyboardType</key>
+			<string>NumberPad</string>
+			<key>Title</key>
+			<string>Text Field Secure</string>
+			<key>Type</key>
+			<string>PSTextFieldSpecifier</string>
+		</dict>
+		<dict>
+			<key>FooterText</key>
+			<string>------- Switch Footer Text --------</string>
+			<key>Title</key>
+			<string>Switch group</string>
+			<key>Type</key>
+			<string>PSGroupSpecifier</string>
+		</dict>
+		<dict>
+			<key>DefaultValue</key>
+			<false/>
+			<key>Key</key>
+			<string>switchID001</string>
+			<key>Title</key>
+			<string>Switch 001</string>
+			<key>Type</key>
+			<string>PSToggleSwitchSpecifier</string>
+		</dict>
+		<dict>
+			<key>DefaultValue</key>
+			<true/>
+			<key>Key</key>
+			<string>switchID002</string>
+			<key>Title</key>
+			<string>Switch 002</string>
+			<key>Type</key>
+			<string>PSToggleSwitchSpecifier</string>
+		</dict>
+		<dict>
+			<key>FooterText</key>
+			<string>--------Title Footer Text --------</string>
+			<key>Title</key>
+			<string>title group</string>
+			<key>Type</key>
+			<string>PSGroupSpecifier</string>
+		</dict>
+		<dict>
+			<key>DefaultValue</key>
+			<string>Title Default Value</string>
+			<key>Key</key>
+			<string>titleID001</string>
+			<key>Title</key>
+			<string>Title</string>
+			<key>Type</key>
+			<string>PSTitleValueSpecifier</string>
+		</dict>
+		<dict>
+			<key>FooterText</key>
+			<string>--------Multi Value Footer Text --------</string>
+			<key>Title</key>
+			<string>Multi value group</string>
+			<key>Type</key>
+			<string>PSGroupSpecifier</string>
+		</dict>
+		<dict>
+			<key>DefaultValue</key>
+			<string>Select 001</string>
+			<key>Key</key>
+			<string>multiID0001</string>
+			<key>Title</key>
+			<string>Select Number</string>
+			<key>Titles</key>
+			<array>
+				<string>Select 001</string>
+				<string>Select 002</string>
+				<string>Select 003</string>
+				<string>Select 004</string>
+				<string>Select 005</string>
+			</array>
+			<key>Type</key>
+			<string>PSMultiValueSpecifier</string>
+			<key>Values</key>
+			<array>
+				<string>Select 001</string>
+				<string>Select 002</string>
+				<string>Select 003</string>
+				<string>Select 004</string>
+				<string>Select 005</string>
+			</array>
+		</dict>
+	</array>
+	<key>StringsTable</key>
+	<string>Root</string>
+</dict>
+</plist>
