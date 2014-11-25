@@ -8,21 +8,48 @@
 		<data>
 		IxD8v8ReDu5usybRbQRDyYm/pe8=
 		</data>
+		<key>Base.lproj/Main.storyboardc/Info.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Jmu6F/QDeWUyQljt5m/23hAkmcs=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>Base.lproj/Main.storyboardc/UIViewController-vXZ-lx-hvc.nib</key>
-		<data>
-		iglCksTeUtvDPc3ZmiWRccqcXsc=
-		</data>
+		<dict>
+			<key>hash</key>
+			<data>
+			ksQrYiWBgIk1KxiSU76crbKVwHE=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>Base.lproj/Main.storyboardc/vXZ-lx-hvc-view-kh9-bI-dsS.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ghmj2I9ysK4xFV4ThE+KIGsPhOc=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Info.plist</key>
 		<data>
-		pIu0Dul8YD/SEQ+d1f4n0tgnCMk=
+		lKNqY+ZwuqxUPeI72k90JNhHdvs=
 		</data>
 		<key>LaunchImage-700-568h@2x.png</key>
 		<data>
-		V1VdV48TyrImURVWCaose9yz87E=
+		jUzAVDZErJq8r4xRQMYF5Kc4BgE=
 		</data>
 		<key>PkgInfo</key>
 		<data>
 		n57qDP4tZfLD1rCS43W0B4LQjzE=
+		</data>
+		<key>ResourceRules.plist</key>
+		<data>
+		erSRBSEWl92xL0qsHWc94sNhhIE=
 		</data>
 		<key>Settings.bundle/License.plist</key>
 		<data>
@@ -33,9 +60,14 @@
 		ec9fqHtckXnsz9X1TBKEmMARxvE=
 		</data>
 		<key>Settings.bundle/en.lproj/localizable.strings</key>
-		<data>
-		zoYhVT1pyXgNJM63T5thN1vKIqc=
-		</data>
+		<dict>
+			<key>hash</key>
+			<data>
+			zoYhVT1pyXgNJM63T5thN1vKIqc=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>Settings.bundle/image1.jpg</key>
 		<data>
 		uyTrBpbtMvEwxy7E1055lwE/Hy4=
@@ -45,17 +77,27 @@
 		CxZK0vG2u8PcZFvx0umTJSyEWYw=
 		</data>
 		<key>Settings.bundle/ja.lproj/localizable.strings</key>
-		<data>
-		jtDUDrOaCJ5rHbN2z/lKYXnWkAM=
-		</data>
+		<dict>
+			<key>hash</key>
+			<data>
+			jtDUDrOaCJ5rHbN2z/lKYXnWkAM=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>embedded.mobileprovision</key>
 		<data>
-		E9I1QvO+TSYzwn6V/t1ZbdiJ0ns=
+		+CPPhA1R54ZCrIzJgmCofPnVjXI=
 		</data>
 		<key>ja.lproj/Main.strings</key>
-		<data>
-		zdOS4RsP3jGwnw72iwS+Yh8+FZw=
-		</data>
+		<dict>
+			<key>hash</key>
+			<data>
+			KaY+jOM03tbZEf4VsLVPRR2jnGM=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 	</dict>
 	<key>files2</key>
 	<dict>
@@ -63,21 +105,40 @@
 		<data>
 		IxD8v8ReDu5usybRbQRDyYm/pe8=
 		</data>
+		<key>Base.lproj/Main.storyboardc/Info.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Jmu6F/QDeWUyQljt5m/23hAkmcs=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>Base.lproj/Main.storyboardc/UIViewController-vXZ-lx-hvc.nib</key>
-		<data>
-		iglCksTeUtvDPc3ZmiWRccqcXsc=
-		</data>
+		<dict>
+			<key>hash</key>
+			<data>
+			ksQrYiWBgIk1KxiSU76crbKVwHE=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>Base.lproj/Main.storyboardc/vXZ-lx-hvc-view-kh9-bI-dsS.nib</key>
-		<data>
-		pIu0Dul8YD/SEQ+d1f4n0tgnCMk=
-		</data>
+		<dict>
+			<key>hash</key>
+			<data>
+			ghmj2I9ysK4xFV4ThE+KIGsPhOc=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>LaunchImage-700-568h@2x.png</key>
 		<data>
-		V1VdV48TyrImURVWCaose9yz87E=
+		jUzAVDZErJq8r4xRQMYF5Kc4BgE=
 		</data>
-		<key>PkgInfo</key>
+		<key>ResourceRules.plist</key>
 		<data>
-		n57qDP4tZfLD1rCS43W0B4LQjzE=
+		erSRBSEWl92xL0qsHWc94sNhhIE=
 		</data>
 		<key>Settings.bundle/License.plist</key>
 		<data>
@@ -88,9 +149,14 @@
 		ec9fqHtckXnsz9X1TBKEmMARxvE=
 		</data>
 		<key>Settings.bundle/en.lproj/localizable.strings</key>
-		<data>
-		zoYhVT1pyXgNJM63T5thN1vKIqc=
-		</data>
+		<dict>
+			<key>hash</key>
+			<data>
+			zoYhVT1pyXgNJM63T5thN1vKIqc=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>Settings.bundle/image1.jpg</key>
 		<data>
 		uyTrBpbtMvEwxy7E1055lwE/Hy4=
@@ -100,68 +166,121 @@
 		CxZK0vG2u8PcZFvx0umTJSyEWYw=
 		</data>
 		<key>Settings.bundle/ja.lproj/localizable.strings</key>
-		<data>
-		jtDUDrOaCJ5rHbN2z/lKYXnWkAM=
-		</data>
+		<dict>
+			<key>hash</key>
+			<data>
+			jtDUDrOaCJ5rHbN2z/lKYXnWkAM=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>embedded.mobileprovision</key>
 		<data>
-		E9I1QvO+TSYzwn6V/t1ZbdiJ0ns=
+		+CPPhA1R54ZCrIzJgmCofPnVjXI=
 		</data>
 		<key>ja.lproj/Main.strings</key>
-		<data>
-		zdOS4RsP3jGwnw72iwS+Yh8+FZw=
-		</data>
+		<dict>
+			<key>hash</key>
+			<data>
+			KaY+jOM03tbZEf4VsLVPRR2jnGM=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 	</dict>
 	<key>rules</key>
 	<dict>
-		<key>.*</key>
+		<key>^</key>
 		<true/>
-		<key>Info.plist</key>
+		<key>^.*\.lproj/</key>
+		<dict>
+			<key>optional</key>
+			<true/>
+			<key>weight</key>
+			<real>1000</real>
+		</dict>
+		<key>^.*\.lproj/locversion.plist$</key>
 		<dict>
 			<key>omit</key>
 			<true/>
 			<key>weight</key>
-			<real>10</real>
+			<real>1100</real>
 		</dict>
-		<key>ResourceRules.plist</key>
-		<dict>
-			<key>omit</key>
-			<true/>
-			<key>weight</key>
-			<real>100</real>
-		</dict>
+		<key>^version.plist$</key>
+		<true/>
 	</dict>
 	<key>rules2</key>
 	<dict>
-		<key>.*</key>
-		<true/>
-		<key>Info.plist</key>
+		<key>.*\.dSYM($|/)</key>
+		<dict>
+			<key>weight</key>
+			<real>11</real>
+		</dict>
+		<key>^</key>
+		<dict>
+			<key>weight</key>
+			<real>20</real>
+		</dict>
+		<key>^(.*/)?\.DS_Store$</key>
 		<dict>
 			<key>omit</key>
 			<true/>
 			<key>weight</key>
-			<real>10</real>
+			<real>2000</real>
 		</dict>
-		<key>ResourceRules.plist</key>
-		<dict>
-			<key>omit</key>
-			<true/>
-			<key>weight</key>
-			<real>100</real>
-		</dict>
-		<key>^(Frameworks|SharedFrameworks|Plugins|Plug-ins|XPCServices|Helpers|MacOS)/</key>
+		<key>^(Frameworks|SharedFrameworks|PlugIns|Plug-ins|XPCServices|Helpers|MacOS|Library/(Automator|Spotlight|LoginItems))/</key>
 		<dict>
 			<key>nested</key>
 			<true/>
 			<key>weight</key>
-			<real>0.0</real>
+			<real>10</real>
+		</dict>
+		<key>^.*</key>
+		<true/>
+		<key>^.*\.lproj/</key>
+		<dict>
+			<key>optional</key>
+			<true/>
+			<key>weight</key>
+			<real>1000</real>
+		</dict>
+		<key>^.*\.lproj/locversion.plist$</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>1100</real>
+		</dict>
+		<key>^Info\.plist$</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>20</real>
+		</dict>
+		<key>^PkgInfo$</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>20</real>
 		</dict>
 		<key>^[^/]+$</key>
 		<dict>
-			<key>top</key>
+			<key>nested</key>
 			<true/>
 			<key>weight</key>
-			<real>0.0</real>
+			<real>10</real>
+		</dict>
+		<key>^embedded\.provisionprofile$</key>
+		<dict>
+			<key>weight</key>
+			<real>20</real>
+		</dict>
+		<key>^version\.plist$</key>
+		<dict>
+			<key>weight</key>
+			<real>20</real>
 		</dict>
 	</dict>
 </dict>

@@ -14,7 +14,7 @@
 		<string>https://github.com/KentarouKanno/SettingsBundleSample.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>SettingsBudle/SettingsBudle.xcodeproj/project.xcworkspace</string>
+	<string>SettingsBudle/SettingsBudle.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>9BB7331AF33ACBFD52F80FD737B9E7290F476E70</key>

@@ -74,9 +74,12 @@
     _switch2.on = [[userDefaults stringForKey:@"switchID002"] boolValue];
     
     tmpString = [userDefaults stringForKey:@"multiID0001"];
-    
-    NSUInteger index = [multiTitleArray indexOfObject:tmpString];
-    [_multiPickerView selectRow:index inComponent:0 animated:NO];
+    if(tmpString) {
+        NSUInteger index = [multiTitleArray indexOfObject:tmpString];
+        [_multiPickerView selectRow:index inComponent:0 animated:NO];
+    } else {
+        [_multiPickerView selectRow:0 inComponent:0 animated:NO];
+    }
     
 }
 
